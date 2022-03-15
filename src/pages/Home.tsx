@@ -1,8 +1,9 @@
 import * as React from 'react'
+import Background from '../components/Background'
 
 const Home = () => {
     return(
-        null
+        <Background />
     )
 }
 
